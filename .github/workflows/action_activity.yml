@@ -34,7 +34,6 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          default: <default-value>
 
       - name: Plugin Habits
         uses: lowlighter/metrics@latest
@@ -48,7 +47,6 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
-          default: <default-value>
 
       - name: Plugin Languages
         uses: lowlighter/metrics@latest
@@ -66,7 +64,6 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          default: <default-value>
 
       - name: Plugin Lines
         uses: lowlighter/metrics@latest
@@ -77,16 +74,14 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          default: <default-value>
 
       - name: Plugin Respositories
         uses: lowlighter/metrics@latest
         with:
-          filenames: metrics_repositories,
+          filename: metrics_repositories,
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
-          default: <default-value>
 
       - name: Plugin RSS
         uses: lowlighter/metrics@latest
@@ -96,7 +91,6 @@ jobs:
           plugin_rss: yes
           plugin_rss_limit: 4
           plugin_rss_source: https://www.trent-polack.com/blog?format=rss
-          default: <default-value>
 
       - name: Plugin Stars
         uses: lowlighter/metrics@latest
@@ -105,4 +99,3 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_stars: yes
           plugin_stars_limit: 4
-          default: <default-value>
