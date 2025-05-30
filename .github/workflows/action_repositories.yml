@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
+name: Repositories
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -9,7 +9,7 @@ on:
 
 jobs:
   github-metrics:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-repositories
     permissions:
       contents: write
     steps:

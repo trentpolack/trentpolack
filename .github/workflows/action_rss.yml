@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
+name: RSS
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -8,7 +8,7 @@ on:
   push: {branches: ["master", "main"]}
 
 jobs:
-  github-metrics:
+  github-rss:
     runs-on: ubuntu-latest
     permissions:
       contents: write
