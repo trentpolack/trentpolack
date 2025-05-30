@@ -13,16 +13,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Base
-        uses: lowlighter/metrics@latest
-        with:
-          filename: Output/metrics_base.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: trentpolack
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: America/New_York
-
       - name: Plugin Activity
         uses: lowlighter/metrics@latest
         with:
@@ -34,68 +24,3 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
-
-      - name: Plugin Habits
-        uses: lowlighter/metrics@latest
-        with:
-          filename: Output/metrics_habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
-
-      - name: Plugin Languages
-        uses: lowlighter/metrics@latest
-        with:
-          filename: Output/metrics_language.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-
-      - name: Plugin Lines
-        uses: lowlighter/metrics@latest
-        with:
-          filename: Output/metrics_lines.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
-
-      - name: Plugin Respositories
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics_repositories,
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugin_repositories: yes
-          plugin_repositories_order: featured, pinned, starred, random
-
-      - name: Plugin RSS
-        uses: lowlighter/metrics@latest
-        with:
-          filename: Output/metrics_rss.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugin_rss: yes
-          plugin_rss_limit: 4
-          plugin_rss_source: https://www.trent-polack.com/blog?format=rss
-
-      - name: Plugin Stars
-        uses: lowlighter/metrics@latest
-        with:
-          filename: Output/metrics_stars.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugin_stars: yes
-          plugin_stars_limit: 4
