@@ -20,4 +20,4 @@
 ![Lines of Code](Output/metrics_lines.svg)
 
 ## Respositories
-![Respositories](Output/metrics_base.svg)
+![Respositories](Output/metrics_repositories.svg)
