@@ -30,12 +30,17 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
+          
+          # Plugin Activity.
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
+          default: <default-value>
+
+          # Plugin Habits.
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
@@ -43,6 +48,9 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
+          default: <default-value>
+
+          # Plugin Languages.
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
@@ -54,14 +62,27 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          default: <default-value>
+
+          # Plugin Lines.
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+          default: <default-value>
+
+          # Plugin Repositories.
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
+          default: <default-value>
+
+          # Plugin RSS.
           plugin_rss: yes
           plugin_rss_limit: 4
           plugin_rss_source: https://www.trent-polack.com/blog?format=rss
+          default: <default-value>
+
+          # Plugin Stars.
           plugin_stars: yes
           plugin_stars_limit: 4
+          default: <default-value>
