@@ -71,7 +71,7 @@ jobs:
       - name: Plugin Lines
         uses: lowlighter/metrics@latest
         with:
-          filename: Output/metrics_lines.svg,
+          filename: Output/metrics_lines.svg
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_lines: yes
           plugin_lines_history_limit: 1
@@ -91,7 +91,7 @@ jobs:
       - name: Plugin RSS
         uses: lowlighter/metrics@latest
         with:
-          filename: Output/metrics_rss.svg,
+          filename: Output/metrics_rss.svg
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_rss: yes
           plugin_rss_limit: 4
