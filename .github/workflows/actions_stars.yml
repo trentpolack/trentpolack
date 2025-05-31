@@ -14,7 +14,7 @@ jobs:
       contents: write
     steps:
       - name: Plugin Stars
-        uses: lowlighter/metrics@latestb
+        uses: lowlighter/metrics@latest
         with:
           filename: Output/metrics_stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
