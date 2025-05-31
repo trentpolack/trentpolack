@@ -5,7 +5,7 @@ on:
   schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push: {branches: ["main", "develop"]}
 
 jobs:
   github-rss:
@@ -21,3 +21,4 @@ jobs:
           plugin_rss: yes
           plugin_rss_limit: 4
           plugin_rss_source: https://www.trent-polack.com/blog?format=rss
+          base_skip: true
