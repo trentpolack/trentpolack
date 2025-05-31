@@ -18,5 +18,6 @@ jobs:
         with:
           filename: metrics_repositories,
           token: ${{ secrets.METRICS_TOKEN }}
+          base: 
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random

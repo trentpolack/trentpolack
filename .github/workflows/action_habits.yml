@@ -18,6 +18,7 @@ jobs:
         with:
           filename: Output/metrics_habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: 
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
