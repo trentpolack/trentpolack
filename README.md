@@ -1,17 +1,8 @@
 # Metrics
-![Base Metrics](Output/metrics_base.svg)
-
-## Blog RSS Feed
-![Blog RSS Feed](Output/metrics_rss.svg)
+<p align="center"><img src="Output/metrics_base.svg"> <img src="Output/metrics_language.svg"></p>
 
 ## Stars
-![Stars](Output/metrics_stars.svg)
+<p align="center"><img src="Output/metrics_stars.svg"></p>
 
 ## Activity
-![Activity](Output/metrics_activity.svg)
-
-## Habits
-![Habits](Output/metrics_habits.svg)
-
-## Languages
-![Languages](Output/metrics_language.svg)
+<p align="center"><img src="Output/metrics_activity.svg"> <img src="Output/metrics_rss.svg"></p>
