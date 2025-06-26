@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="661" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="345" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,50 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">trentpolack/CALVINBALL-GAME</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8697a62</div>
+                                        <div class="message">Removed a lot of packages that were unlikely to get used (RIP MudBun) also rest in peace Raymarcher, Boing Kit, LiveWatch (this one wasn't much of a loss), and Raymarcher. I did add a whole bunch of materials and started to add other buildings and env art though. Also updated a few behavior tree and entity packages.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">trentpolack/CALVINBALL-GAME</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4308f1b</div>
+                                        <div class="message">Wrote up a little Time of Day and Celestial Body Module as part of the environment suite (and a test of the singleetons). It went exceedingly pooly but kinda got there eventually.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc3888b</div>
+                                        <div class="message">Updated AI pathfinding and behavior tree packs.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -66,126 +110,6 @@
                                         <div class="message">Create README.md
 
 initial readme while I got by wholesale stealing what README.SO already had about the project which was a little creepy.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">trentpolack/CALVINBALL-GAME</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6a4c088</div>
-                                        <div class="message">Removed extraneous sample projects from tools content. We get it. You do tools. Added Quixel Bridge plugin. Reimported all sample content for HDRP due to some odd issues. Enabled the water rendering system in all fidelity profiles. Almost all of this is still in-flight pending a project maintenance pass after a build.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff8b928</div>
-                                        <div class="message"> Updated project HDRP and graphics/volume settings with refined postprocessor settings. Turned Water support back on. Updated HDRP register assets (these changes coming next).</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 90 commits in
-                                        <span class="repo">trentpolack/CALVINBALL-GAME</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b7620bb</div>
-                                        <div class="message">Updated to the 6.2 beta.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a8acae</div>
-                                        <div class="message">Even MORE content packages it's crazy town but also a lot of painful manual cleanup of errors in the same code so this is like the Persona 1 of wins.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf9b783</div>
-                                        <div class="message">Even more supporting content and tools without any new gameplay being introduced. It's less playable right now, actually.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8cea0e6</div>
-                                        <div class="message">Getting parity with the URP project; setup Asset Inventory, brought over mechs, setup some metal megascans textures and materials (not applied yet), and some other misc. stuff.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#79edaf6</div>
-                                        <div class="message">Added a README.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#04b2764</div>
-                                        <div class="message">Added yet again more asset packages and tools.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e8293eb</div>
-                                        <div class="message">Changed DB and Unity file extensions to be Git LFS.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aea651a</div>
-                                        <div class="message">Fixed (?) most of the outstanding project issues that were preventing it from running. I think.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4fea31d</div>
-                                        <div class="message">Fixed the Crest example content.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dcab71c</div>
-                                        <div class="message">Fixed some shader issues with the Raymarcher samples.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4f5022</div>
-                                        <div class="message">Fixed cozy weather shaders and integrated HDRP raymarcher content.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#689e033</div>
-                                        <div class="message">Progress check in on just getting things working with HDRP as well as adding more and more asset store packages that seemed neat.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f1e6ec0</div>
-                                        <div class="message">Surprisingly more fixes to just get things running.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e7a14bc</div>
-                                        <div class="message">A whole bunch more asset packs and github repos and tried to start fixing some inconsistencies with the HDRP lighting values on the PopcornFX emitters.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a8538b</div>
-                                        <div class="message">Went on an asset pack binge and got a bunch of stuff to mess around with with no real clear end goal in mind other than THE JOURNEY.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#816b9e9</div>
-                                        <div class="message">Fixed LFS settings.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1cd939c</div>
-                                        <div class="message">Forgot to setup the dylib as an LFS.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#91f40b7</div>
-                                        <div class="message">Setup PopcornFX sample library and plugin integration.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d11e975</div>
-                                        <div class="message">Initial project commit and LFS setup.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#78cd09e</div>
-                                        <div class="message">Initial commit</div>
                                     </div>
                                 </div>
                             </section>
