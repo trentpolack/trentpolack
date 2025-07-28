@@ -1,11 +1,11 @@
  Hi 👋 My name is Trent Polack
 =============================
 
-I'm a Gameplay Designer and Game Director
+I'm a Gameplay Designer and Design Director
 ------------------------------
 *   🌍  I'm based in Boston, MA
-*   🖥️  See my portfolio at [https://trent-polack.com](http://trent-polack.com)
-*   ✉️  You can contact me at [trentp@gmail.com](mailto:trentp@gmail.com)
+*   🖥️  See my portfolio at [https://trentpolack.com](http://trentpolack.com)
+*   ✉️  You can contact me at [me@trentpolack.com](mailto:me@trentpolack.com)
 *   🧠  I'm learning how unity works again.
 
 ## Support My Work
