@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="328" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,72 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">trentpolack/CALVINBALL-GAME</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9fbfb6f</div>
+                                        <div class="message">Merge branch 'feature/all-the-content' into develop</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">trentpolack/CALVINBALL-GAME</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/all-the-content</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#219f809</div>
+                                        <div class="message">Emerged from an obscenely deep rabbit hole on the changelog generator.
+
+It's always the seemingly simplest tasks that get you. But the entire template for the changelog has been updated and should be nice and handy now, so there's that.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#963288c</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/feature/all-the-content' into feature/all-the-content</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d336906</div>
+                                        <div class="message">More work on the changelog template because that's my obsession apparently.
+
+- Added lil' emojis.
+- Removed message bodies.
+- Yes, this commit is still yet another test.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f8c006</div>
+                                        <div class="message">Few more changes to the changelog template.
+
+- Enabled Unity's FBX package for native support for creating prefab variants and exporting FBXs from Unity ASSET files.
+- Perf pass on all graphics settings to reduce fidelity a smidge here and there (no more 128-bit frame buffer) and get back some perf.
+- Enabled GPU batching and culling.
+- Disabled static culling.
+- Blindly deleted one of the Newtonsoft JSON sets of plugins because it felt right for fixing another cloud build bug.
+- Removed RNG package and its dependent core package as I think it's one of the last barriers in a successful cloud build.
+NOTE: Also initialized Git Flow properly for the repo because you can definitely civilize processes on almost no sleep. Which is why this is my third try at this commit message.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -81,54 +147,6 @@ NOTE: Also initialized Git Flow properly for the repo because you can definitely
                                     <div class="content">
                                         Starred
                                         <span class="repo">zeux/meshoptimizer</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">trentpolack/CALVINBALL-GAME</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0525142</div>
-                                        <div class="message">Merge branch 'feature/all-the-content' into develop</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">trentpolack/CALVINBALL-GAME</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/all-the-content</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9642f13</div>
-                                        <div class="message">CHANGELOG!</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e0bee96</div>
-                                        <div class="message">Various fixes and clean-up.
-
-- Deleted some rogue files.
-- Removed needle patching since it was crashing endlessly. Which is one way of fixing something.
-- Enabled unity AI which... Late night regrets I'm sure.</div>
                                     </div>
                                 </div>
                             </section>
