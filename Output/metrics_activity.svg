@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="335" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="578" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,15 +22,152 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
+                                        Pushed 93 commits in
                                         <span class="repo">trentpolack/CALVINBALL-GAME</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#db2ef3c</div>
-                                        <div class="message">Merge branch 'feature/simulation-systems' into develop</div>
+                                        <div class="sha">#e68bc33</div>
+                                        <div class="message">Started setting up the mech as a player controller.
+
+It's only barely functional so long as the definition of "barely" is that it compiles.
+
+Remove InTerra, I'm not sure I see a strong need for it.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2933f7</div>
+                                        <div class="message">Another kids 'r us run in the asset store; grabbed a ton of tools
+
+- It's a SUMMER SALE it's my KRYPTONITE.
+- Grabbed packages for dynamically editing meshes, textures, prefabs, etc. in editor.
+- Grabbed a spline package because I realized somehow didn't have one.
+- Fixed some compiler errors with the compiler dependency tool.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03440a3</div>
+                                        <div class="message">Removing content.obv files.
+
+Finally figured out where these were coming from.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#413f048</div>
+                                        <div class="message">Update README with an updated app screen shot.
+
+Though now I can't remember what branch I'm in.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2fe428a</div>
+                                        <div class="message">Merge branch 'feature/project-base-init' into develop</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#73b83f4</div>
+                                        <div class="message">Merge branch 'feature/project-base-init' into feature/all-the-content</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bfb2adf</div>
+                                        <div class="message">Passes on project settings, integrated UModeler, started on mechs &amp; mats
+
+- Several passes on all rendering settings particularly sky/light volume and main camera.
+- Added and iterated on RTAO and WSGI.
+- Setup a basic test mech.
+- Setup some basic materials from Kitbash3D.
+- Integrated Gamelogic Extensions plugin package.
+- Integrated texture modifying tools in "amazing assets".
+- Added Mesh Baker.
+- Added FinalIK and PuppetMaster.
+- Removed Aura 2, some screenshot utilities, and Raymarcher.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2ab390b</div>
+                                        <div class="message">Iteration on the project from a few hours of getting things running.
+
+- Removed some more installers and demo content.
+- Setup MONKEY COMMANDER properly.
+- Full pass on project and renderer settings.
+- Started setting up some sample game objects.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6b6e69</div>
+                                        <div class="message">Committing some config changes for Shapes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#35164ed</div>
+                                        <div class="message">Miscellaneous fixes and updates.
+ - Patch for HTraceAO.
+ - Deleted mech meshes and transitioned them to a LargeFileStorage folder hosted by OneDrive.
+ - Added an ignore rule for LargeFileStorage folder.
+ - None of these made it into this changelist because of aforementioned rule but I'm halfway through exporting SpeedTree assets into a Unity-useable state and omg make it stop.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe0c336</div>
+                                        <div class="message">Deleted MegaShapes scene content again.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f78b67</div>
+                                        <div class="message">Package cleanup and Havok installed. Also upgraded all materials to HDRP
+
+- Added remaining mech assets, removed some extraneous packages, installed havok.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b2993d</div>
+                                        <div class="message">Merge branch 'feature/all-the-content' into feature/project-base-init</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c235f6</div>
+                                        <div class="message">Merged a lone JSON file to complete the ginormo-checkin.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5a6e8c</div>
+                                        <div class="message">Full pass on importing all packages and core functional content.
+
+I'm not going to do a full write-up here but at a glance we have:
+
+- Substance 3D
+- Amplify Shadaer
+- Aura 2
+- Digger
+- Feel
+- Gaia
+- Mech three-pack
+- Monkey
+- Timeflow
+- Raymarcher
+- OneJS
+- WorldCreatorBridge
+- A*
+- Microsplat
+
+And a bunch of other smaller packages (probably some bigger ones too). And none of this even starts to cover the actual content like the terrain or the kitbash3d stuff. Yeehaw. A mere 43k files.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb9faa7</div>
+                                        <div class="message">Project dependency setup and organization.
+
+- Effects: Added Beautify, Vulcan.
+- MegaFiers - cleaned up folder structure and MegaGrab.
+- Plugins: moved Odin and Cargo in here.
+- Rendering: HTrace plugins moved in here.
+- Systems: moved BulletBallistics in here.
+- Tools: moved all third-party tools and editor enhancements in here; better mesh filter, better transform, vFavorites, vFolders, vHierarchy, vInspector, vTabs.
+- Added UniStats to the the project and the base scene (may need to refactor this as the package wants to make changes to immutable files).</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#547836f</div>
+                                        <div class="message">- Standard fare plugins and packages; note that this does not fully build yet.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c4da265</div>
+                                        <div class="message">- Added some common mech meshes. Added the material ball mesh. Added the Cargo plugin for mass importing of assets next up.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ee446d</div>
+                                        <div class="message">- Renamed LUT folders to follow conventions.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc1b35f</div>
+                                        <div class="message">- Added TextMeshPro. - Added HDRP sample assets. - Very rough pass on HDRP default settings.</div>
                                     </div>
                                 </div>
                             </section>
@@ -39,16 +176,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#30 Runtime error with Unity 6.2 beta</span>
+                                        Pre-released
+                                        <span class="bold">v0.1.0 - All Along the Mechern Front</span>
+                                        of
+                                        <span class="repo">trentpolack/CALVINBALL-GAME</span>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by trentpolack in <span class="repo">needle-tools/needle-console</span></div>
-                                    <div class="comment">Yeah, this is looking good to me now; I tried adding the updated Harmony too but it didn't really help much so I'm glad it still ended up working out.</div>
                                 </div>
                             </section>
                         </div>
@@ -56,31 +191,30 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#30 Runtime error with Unity 6.2 beta</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">needle-tools/needle-console</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
                                     <div class="content">
                                         Created new
-                      branch
-                                        <span class="code">develop</span>
+                      tag
+                                        <span class="code">v0.1.0</span>
                                         in
-                                        <span class="repo">trentpolack/CALVINBALL</span>
+                                        <span class="repo">trentpolack/CALVINBALL-GAME</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">all's-clear-in-the-mechern-front-v3</span>
+                                        in
+                                        <span class="repo">trentpolack/CALVINBALL-GAME</span>
                                     </div>
                                 </div>
                             </section>
@@ -92,15 +226,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">trentpolack/CALVINBALL</span>
+                                        Pushed 4 commits in
+                                        <span class="repo">trentpolack/CALVINBALL-GAME</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7ea5e32</div>
-                                        <div class="message">Merge branch 'main' of https://github.com/trentpolack/CALVINBALL</div>
+                                        <div class="sha">#db2ef3c</div>
+                                        <div class="message">Merge branch 'feature/simulation-systems' into develop</div>
                                     </div>
                                 </div>
                             </section>
