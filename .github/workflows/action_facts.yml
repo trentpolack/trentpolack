@@ -16,7 +16,7 @@ jobs:
       - name: Mildly interesting facts
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.habits.facts.svg
+          filename: Output/metrics_facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes
