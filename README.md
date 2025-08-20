@@ -13,10 +13,12 @@ I'm a Gameplay Designer and Design Director
 <a href="https://www.ko-fi.com/trentpolack"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" style="align:center" width="150"/></a>
 </p>
 
-## Recent Activity
-| <h3>Stars<h3> | <h3>Activity</h3> | <h3>Posts</h3>
-| --- | --- | --- |
-![Recently starred repositories.](Output/metrics_stars.svg) |  ![Recent blog posts.](Output/metrics_rss.svg) | ![Recent general Github activity.](Output/metrics_activity.svg)
+## Metrics
+| <h3>Wakatime<h3> | <h3>Overview</h3> | <h3>Recent Activity</h3>
+| :---: | :---: | :---: |
+![Wakatime Over the Last Week.](Output/metrics_wakatime.svg) | ![User Overview.](Output/metrics_overview.svg) | ![Recent general Github activity.](Output/metrics_activity.svg)
+| <h3>Stars<h3> | <h3>Recent Posts</h3> | <h3>Facts</h3>
+![Recently starred repositories.](Output/metrics_stars.svg) | ![Recent blog posts.](Output/metrics_rss.svg) | ![Mildly Interesting Facts.](Output/metrics_facts.svg)
 
 <p align="center" width=100%>
 <h3>Skills</h3>
