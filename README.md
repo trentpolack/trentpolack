@@ -90,3 +90,4 @@ I'm a Gameplay Designer and Design Director
     </picture>
     </a>
 </p>
+<a href="https://app.daily.dev/trentpolack"><img src="https://api.daily.dev/devcards/v2/0uiq8Cx2JxrMnKBVJ2sSk.png?r=6gq&type=wide" width="652" alt="Trent Polack's Dev Card"/></a>
