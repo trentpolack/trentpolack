@@ -16,7 +16,7 @@ jobs:
       - name: Overview
         uses: lowlighter/metrics@latest
         with:
-          filename: Output/overview.svg
+          filename: Output/metrics_overview.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           plugin_lines: yes
