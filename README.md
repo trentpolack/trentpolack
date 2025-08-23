@@ -13,6 +13,17 @@ I'm a Gameplay Designer and Design Director
 <a href="https://www.ko-fi.com/trentpolack"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" style="align:center" width="150"/></a>
 </p>
 
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=47236" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=47236&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @trentpolack" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=47236&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
 ## Metrics
 | <h3>Wakatime<h3> | <h3>Overview</h3> | <h3>Recent Activity</h3>
 | :---: | :---: | :---: |
