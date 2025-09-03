@@ -1,0 +1,25 @@
+name: Wakatime Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  waka-readme-stats:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    permissions:
+      actions: read
+      checks: read
+      contents: write
+      issues: read
+      pull-requests: read 
+      repository-projects: read
+      security-events: write
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+#          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.WAKATIME_METRICS }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}

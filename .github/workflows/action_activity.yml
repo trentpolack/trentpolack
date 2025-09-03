@@ -17,8 +17,13 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: Output/metrics_activity.svg
+<<<<<<< HEAD
           token: ${{ secrets.GITHUB_TOKEN }}
           base: 
+=======
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+>>>>>>> a5a893bc8aa7e970de53d6756ad0e1115b3085e1
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all

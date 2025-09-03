@@ -17,8 +17,13 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: Output/metrics_language.svg
+<<<<<<< HEAD:.github/workflows/action_languagse.yml
           token: ${{ secrets.GITHUB_TOKEN }}
           base: 
+=======
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+>>>>>>> a5a893bc8aa7e970de53d6756ad0e1115b3085e1:.github/workflows/action_language.yml
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5

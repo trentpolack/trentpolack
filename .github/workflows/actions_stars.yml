@@ -18,6 +18,10 @@ jobs:
         with:
           filename: Output/metrics_stars.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+<<<<<<< HEAD
           base: 
+=======
+          base: ""
+>>>>>>> a5a893bc8aa7e970de53d6756ad0e1115b3085e1
           plugin_stars: yes
           plugin_stars_limit: 4
