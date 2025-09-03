@@ -9,6 +9,9 @@ jobs:
   waka-readme-stats:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    permissions:
+      checks: read
+      repository-projects: read
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
