@@ -17,6 +17,6 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: Output/metrics_overview.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: header, repositories
           plugin_lines: yes
