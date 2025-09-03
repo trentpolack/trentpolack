@@ -18,6 +18,6 @@ jobs:
         with:
           filename: Output/metrics_stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: 
+          base: ""
           plugin_stars: yes
           plugin_stars_limit: 4
