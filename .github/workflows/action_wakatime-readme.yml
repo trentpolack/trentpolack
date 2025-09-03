@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       checks: read
+      contents: read
       repository-projects: read
     steps:
       - uses: anmol098/waka-readme-stats@master
