@@ -25,6 +25,9 @@ I’ve been making video games for over 18 years from designing deep, immersive 
 | <h3>Stars<h3> | <h3>Recent Posts</h3> | <h3>Facts</h3>
 ![Recently starred repositories.](Output/metrics_stars.svg) | ![Recent blog posts.](Output/metrics_rss.svg) | ![Mildly Interesting Facts.](Output/metrics_facts.svg)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/trentpolack) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/trentpolack) 
   
