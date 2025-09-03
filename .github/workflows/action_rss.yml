@@ -18,7 +18,7 @@ jobs:
         with:
           filename: Output/metrics_rss.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: 
+          base: ""
           plugin_rss: yes
           plugin_rss_limit: 4
-          plugin_rss_source: https://www.trent-polack.com/blog?format=rss
+          plugin_rss_source: https://trentpolack.com/blog?format=rss
