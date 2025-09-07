@@ -16,6 +16,17 @@ I’ve been making video games for over 18 years from designing deep, immersive 
 ![](https://nirzak-streak-stats.vercel.app/?user=trentpolack&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trentpolack&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=47236" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=47236&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @trentpolack" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=47236&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=trentpolack&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
