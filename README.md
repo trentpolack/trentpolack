@@ -39,6 +39,79 @@ I’ve been making video games for over 18 years from designing deep, immersive 
 ![Recently starred repositories.](Output/metrics_stars.svg) | ![Recent blog posts.](Output/metrics_rss.svg) | ![Mildly Interesting Facts.](Output/metrics_facts.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%201%20min-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 5.0 MB Used in GitHub's Storage 
+ > 
+> 🏆 18 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 47 Public Repositories 
+ > 
+> 🔑 31 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                588 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+🌆 Daytime                1151 commits        ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
+🌃 Evening                1453 commits        ████████░░░░░░░░░░░░░░░░░   32.69 % 
+🌙 Night                  1253 commits        ███████░░░░░░░░░░░░░░░░░░   28.19 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   562 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Tuesday                  741 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Wednesday                792 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Thursday                 704 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Friday                   620 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Saturday                 458 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Sunday                   568 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in C++** 
+
+```text
+TypeScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+C#                       10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+ShaderLab                2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Less                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+GLSL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/trentpolack/trentpolack/main/assets/bar_graph.png)
+
+
+ Last Updated on 15/01/2026 19:08:21 UTC
 <!--END_SECTION:waka-->
 
 # 💰 You can help me by Donating
