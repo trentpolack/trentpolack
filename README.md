@@ -41,7 +41,7 @@ I’ve been making video games for over 18 years from designing deep, immersive 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%201%20min-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -111,7 +111,7 @@ GLSL                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/trentpolack/trentpolack/main/assets/bar_graph.png)
 
 
- Last Updated on 15/01/2026 19:08:21 UTC
+ Last Updated on 19/01/2026 19:06:51 UTC
 <!--END_SECTION:waka-->
 
 # 💰 You can help me by Donating
