@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   workflow_call:
     secrets:
-      GITHUB_TOKEN:
+      GH_TOKEN:
         required: true
 jobs:
   github-profile:
@@ -42,4 +42,4 @@ jobs:
           plugin_topics_limit: 24
           plugin_isocalendar: yes
           plugin_languages: yes
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
