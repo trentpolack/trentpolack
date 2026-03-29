@@ -1,0 +1,29 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: RSS
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-rss:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Plugin RSS
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Output/metrics_rss.svg
+<<<<<<< HEAD
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: 
+=======
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+>>>>>>> a5a893bc8aa7e970de53d6756ad0e1115b3085e1
+          plugin_rss: yes
+          plugin_rss_limit: 4
+          plugin_rss_source: https://trentpolack.com/blog?format=rss

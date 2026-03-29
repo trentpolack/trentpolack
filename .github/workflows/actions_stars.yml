@@ -1,0 +1,27 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Stars
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-stars:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Plugin Stars
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Output/metrics_stars.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+<<<<<<< HEAD
+          base: 
+=======
+          base: ""
+>>>>>>> a5a893bc8aa7e970de53d6756ad0e1115b3085e1
+          plugin_stars: yes
+          plugin_stars_limit: 4
