@@ -17,7 +17,7 @@ jobs:
           template: markdown
           filename: README-dev.output.md
           markdown: >-
-            https://raw.githubusercontent.com/trentpolack/metrics/main/README-dev.md
+            https://raw.githubusercontent.com/trentpolack/trentpolack/main/README-dev.md
           config_output: markdown
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
