@@ -1,14 +1,11 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
+name: Base
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
-  workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  schedule: [{cron: "0 0 * * *"}]
 
 jobs:
-  github-metrics:
+  github-profile:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -16,9 +13,28 @@ jobs:
       - name: Base
         uses: lowlighter/metrics@latest
         with:
-          filename: Output/metrics_base.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
           user: trentpolack
-          template: classic
+          template: markdown
+          filename: README-dev.output.md
+          markdown: >-
+            https://raw.githubusercontent.com/trentpolack/metrics/main/README-dev.md
+          config_output: markdown
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
+          plugin_activity: yes
+          plugin_activity_limit: 7
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          plugin_posts: yes
+          plugin_posts_source: dev.to
+          plugin_posts_descriptions: yes
+          plugin_posts_covers: yes
+          plugin_posts_limit: 2
+          plugin_rss: yes
+          plugin_rss_source: https://trentpolack.com/blog?format=rss
+          plugin_rss_limit: 4
+          plugin_topics: yes
+          plugin_topics_limit: 24
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          token: ${{ secrets.GITHUB_TOKEN }}
