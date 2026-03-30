@@ -24,7 +24,7 @@ jobs:
           template: markdown
           filename: README-dev.output.md
           markdown: >-
-            ../../README-dev.md
+            https://raw.githubusercontent.com/trentpolack/trentpolack/main/README-dev.md
           config_output: markdown
           config_timezone: America/New_York
           token: ${{ secrets.GH_TOKEN }}
