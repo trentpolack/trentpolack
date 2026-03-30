@@ -30,10 +30,6 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          plugin_activity: yes
-          plugin_activity_limit: 7
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
           plugin_rss: yes
           plugin_rss_source: https://trentpolack.com/blog?format=rss
           plugin_rss_limit: 4
