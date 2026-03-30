@@ -23,9 +23,11 @@ jobs:
           user: trentpolack
           template: markdown
           filename: README-dev.output.md
-          markdown: ../../README-dev.md
+          markdown: >-
+            ../../README-dev.md
           config_output: markdown
           config_timezone: America/New_York
+          token: ${{ secrets.GH_TOKEN }}
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           plugin_activity: yes
@@ -52,4 +54,3 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          token: ${{ secrets.GH_TOKEN }}
