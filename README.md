@@ -36,8 +36,6 @@ I'm currently working primarily with Unreal Engine 5, Unity, Houdini, Gaea 2, Wo
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%207%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 2.7 MB Used in GitHub's Storage 
