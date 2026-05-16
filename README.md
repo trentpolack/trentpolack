@@ -34,8 +34,6 @@ I'm currently working primarily with Unreal Engine 5, Unity, Houdini, Gaea 2, Wo
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2058%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 2.7 MB Used in GitHub's Storage 
@@ -48,6 +46,45 @@ I'm currently working primarily with Unreal Engine 5, Unity, Houdini, Gaea 2, Wo
  > 
 > 🔑 29 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                599 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+🌆 Daytime                1192 commits        ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+🌃 Evening                1537 commits        ████████░░░░░░░░░░░░░░░░░   33.41 % 
+🌙 Night                  1272 commits        ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   573 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Tuesday                  774 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Wednesday                834 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Thursday                 702 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Friday                   638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Saturday                 456 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Sunday                   623 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -65,7 +102,7 @@ Less                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/trentpolack/trentpolack/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2026 01:10:31 UTC
+ Last Updated on 16/05/2026 01:06:58 UTC
 <!--END_SECTION:waka-->
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
