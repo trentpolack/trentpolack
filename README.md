@@ -34,11 +34,13 @@ I'm currently working primarily with Unreal Engine 5, Unity, Houdini, Gaea 2, Wo
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-273%20hrs-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 2.7 MB Used in GitHub's Storage 
  > 
-> 🏆 134 Contributions in the Year 2026
+> 🏆 135 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -49,7 +51,7 @@ I'm currently working primarily with Unreal Engine 5, Unity, Houdini, Gaea 2, Wo
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                599 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+🌞 Morning                600 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
 🌆 Daytime                1192 commits        ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
 🌃 Evening                1537 commits        ████████░░░░░░░░░░░░░░░░░   33.41 % 
 🌙 Night                  1272 commits        ███████░░░░░░░░░░░░░░░░░░   27.65 % 
@@ -57,12 +59,12 @@ I'm currently working primarily with Unreal Engine 5, Unity, Houdini, Gaea 2, Wo
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   573 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Tuesday                  774 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Monday                   573 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Tuesday                  774 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
 Wednesday                834 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
 Thursday                 702 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
 Friday                   638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Saturday                 456 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Saturday                 457 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
 Sunday                   623 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
 ```
 
@@ -102,7 +104,7 @@ Less                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/trentpolack/trentpolack/main/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2026 01:06:58 UTC
+ Last Updated on 17/05/2026 01:12:33 UTC
 <!--END_SECTION:waka-->
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
