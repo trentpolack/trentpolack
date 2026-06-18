@@ -48,6 +48,45 @@ I'm currently working primarily with Unreal Engine 5, Unity, Houdini, Gaea 2, Wo
  > 
 > 🔑 29 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                601 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+🌆 Daytime                1201 commits        ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+🌃 Evening                1544 commits        ████████░░░░░░░░░░░░░░░░░   33.43 % 
+🌙 Night                  1272 commits        ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   577 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Tuesday                  775 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Wednesday                834 commits         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Thursday                 702 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Friday                   638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Saturday                 458 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Sunday                   634 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -65,7 +104,7 @@ Less                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/trentpolack/trentpolack/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2026 01:22:49 UTC
+ Last Updated on 18/06/2026 01:24:27 UTC
 <!--END_SECTION:waka-->
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
