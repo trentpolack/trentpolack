@@ -34,6 +34,8 @@ I'm currently working primarily with Unreal Engine 5, Unity, Houdini, Gaea 2, Wo
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%2030%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 2.7 MB Used in GitHub's Storage 
@@ -49,21 +51,21 @@ I'm currently working primarily with Unreal Engine 5, Unity, Houdini, Gaea 2, Wo
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                601 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-🌆 Daytime                1201 commits        ███████░░░░░░░░░░░░░░░░░░   26.01 % 
-🌃 Evening                1544 commits        ████████░░░░░░░░░░░░░░░░░   33.43 % 
-🌙 Night                  1272 commits        ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+🌞 Morning                608 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+🌆 Daytime                1209 commits        ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+🌃 Evening                1550 commits        ████████░░░░░░░░░░░░░░░░░   33.40 % 
+🌙 Night                  1274 commits        ███████░░░░░░░░░░░░░░░░░░   27.45 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   577 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Tuesday                  775 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Wednesday                834 commits         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Thursday                 702 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Friday                   638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Saturday                 458 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Sunday                   634 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Monday                   587 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Tuesday                  776 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Wednesday                834 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Thursday                 705 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Friday                   638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Saturday                 461 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Sunday                   640 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
 ```
 
 
@@ -102,7 +104,7 @@ Less                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/trentpolack/trentpolack/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 00:45:33 UTC
+ Last Updated on 25/07/2026 00:55:52 UTC
 <!--END_SECTION:waka-->
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
