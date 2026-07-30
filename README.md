@@ -34,6 +34,10 @@ I'm currently working primarily with Unreal Engine 5, Unity, Houdini, Gaea 2, Wo
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2020%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2039%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 2.7 MB Used in GitHub's Storage 
@@ -108,7 +112,7 @@ Less                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/trentpolack/trentpolack/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 00:52:43 UTC
+ Last Updated on 30/07/2026 00:51:50 UTC
 <!--END_SECTION:waka-->
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
