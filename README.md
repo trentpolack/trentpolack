@@ -34,7 +34,7 @@ I'm currently working primarily with Unreal Engine 5, Unity, Houdini, Gaea 2, Wo
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2030%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2039%20mins-blue?style=flat)
 
@@ -53,21 +53,21 @@ I'm currently working primarily with Unreal Engine 5, Unity, Houdini, Gaea 2, Wo
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                589 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-🌆 Daytime                1172 commits        ███████░░░░░░░░░░░░░░░░░░   26.65 % 
-🌃 Evening                1409 commits        ████████░░░░░░░░░░░░░░░░░   32.04 % 
-🌙 Night                  1228 commits        ███████░░░░░░░░░░░░░░░░░░   27.92 % 
+🌞 Morning                556 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+🌆 Daytime                1099 commits        ███████░░░░░░░░░░░░░░░░░░   26.43 % 
+🌃 Evening                1319 commits        ████████░░░░░░░░░░░░░░░░░   31.72 % 
+🌙 Night                  1184 commits        ███████░░░░░░░░░░░░░░░░░░   28.48 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   574 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Tuesday                  722 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Wednesday                786 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-Thursday                 703 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Friday                   570 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Saturday                 451 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-Sunday                   592 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Monday                   532 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Tuesday                  695 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Wednesday                743 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+Thursday                 687 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Friday                   534 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Saturday                 423 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Sunday                   544 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
 ```
 
 
@@ -77,16 +77,19 @@ Sunday                   592 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      5 mins              ███████████████░░░░░░░░░░   61.04 % 
+Git                      3 mins              ██████████░░░░░░░░░░░░░░░   38.96 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Rider                    5 mins              ███████████████░░░░░░░░░░   61.04 % 
+VS Code                  3 mins              ██████████░░░░░░░░░░░░░░░   38.96 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+JoyCore                  5 mins              ███████████████░░░░░░░░░░   61.04 % 
+UnrealEngine             3 mins              ██████████░░░░░░░░░░░░░░░   38.96 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -112,7 +115,7 @@ Less                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/trentpolack/trentpolack/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 00:37:21 UTC
+ Last Updated on 15/08/2026 00:25:15 UTC
 <!--END_SECTION:waka-->
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
